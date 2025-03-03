@@ -1,5 +1,7 @@
 # 🎯 Entity Framework Core - LINQ ve Include() Kullanımı
 
+(HALA Düzenlenme Aşamasında)
+
 ## 🔍 1️⃣ LINQ Sorguları - Entity Framework Core
 LINQ (Language Integrated Query), veri üzerinde *filtreleme, sıralama ve gruplama* işlemleri yapmak için kullanılan güçlü bir sorgulama yöntemidir. Entity Framework Core ile LINQ kullanarak veritabanı işlemlerini kolayca gerçekleştirebiliriz.
 
